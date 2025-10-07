@@ -1,3 +1,4 @@
+// 変数と代入演算子
 let myPower = 300;
 let mySpeed = 200;
 let myTechnique = 50;
